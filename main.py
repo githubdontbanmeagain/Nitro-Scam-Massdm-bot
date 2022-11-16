@@ -53,7 +53,7 @@ async def start(ctx, key):
                 print("/ | Starting...")
                 await dmall(ctx, emoji)
                 return
-    print(f"/ | Run {config['bot prefix']}setup {config['command key']} first")
+        print(f"/ | Run {config['bot prefix']}setup {config['command key']} first")
     
 @bot.listen("on_connect")
 async def ready():
